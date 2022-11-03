@@ -32,6 +32,7 @@ client_scripts {
 }
 
 data_file 'DLC_ITYP_REQUEST' 'bzzz_foodpack.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'bzzz_drinkpack_can.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'bzzz_prop_torch_fire001.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'natty_props_lollipops.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'dpemotes.ytyp'
