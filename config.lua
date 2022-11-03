@@ -4,9 +4,9 @@ Config = {
     -- Set this to '' to disable the key.
     CancelEmoteKey = 'x', -- List of keys here: https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
     -- Set this to '' to disable the key.
-    HandsUpKey = 'h', -- List of keys here: https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
+    HandsUpKey = '', -- List of keys here: https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
     -- Set this to '' to disable the key.
-    CrouchKey = 'c', -- List of keys here: https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
+    CrouchKey = 'LCONTROL', -- List of keys here: https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
     -- Set this if you really wanna disable emotes in vehicles, if enabled they only play the upper body part of the emote.
     AllowedInVehicles = true,
     -- Commands to play an emote.
@@ -28,11 +28,11 @@ Config = {
     -- Set this to '' to disable the key.
     PtfxKeybind = 'g', -- List of keys here: https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
     -- You can enable the NSFW emotes here.
-    EnableNSFWEmotes = false,
+    EnableNSFWEmotes = true,
     -- You can enable the social movement emotes here.
-    EnableSocialMovementEmotes = false,
+    EnableSocialMovementEmotes = true,
     -- You can disable the synchronized emotes here.
-    EnableSynchronizedEmotes = false, -- These are currently a WIP.
+    EnableSynchronizedEmotes = true, -- These are currently a WIP.
     -- You can disable the animal emotes here.
     EnableAnimalEmotes = true
 }
