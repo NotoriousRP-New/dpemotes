@@ -39,6 +39,7 @@ data_file 'DLC_ITYP_REQUEST' 'dpemotes.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'badges.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'lilflags_ytyp.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'prideprops_ytyp.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'bzzz_foodpack_cookies.ytyp'
 
 lua54 'yes'
 
